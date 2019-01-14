@@ -25,6 +25,17 @@ public class PTra03_06 {
 		 *
 		 * ※ プログラムは何行書いても良いです
 		 */
+		    if (random>=71&&random<=100) {
+			   System.out.println("☆☆☆☆☆");
+
+		     }else if(random<=70&&random>=31){
+		         System.out.println("☆☆☆☆");
+		      } else {
+		            System.out.println("☆☆☆");
+
+
 
 	}
+	}
 }
+
